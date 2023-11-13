@@ -2,13 +2,13 @@ EXTM3U
 #EXTINF:-1 group-title="Sports", FIFA+ 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dab069e61ed04475aedf1821ddf2c265:6410edfe14859feb10df3f7e8c94b579
+#KODIPROP:inputstream.adaptive.license_key=858955fcb28f4ae3bd5b19a318b29ff4:66e263f4b9264e6d145d6c8ce0cae6bf
 https://d37u1i7fq6939a.cloudfront.net/out/v1/a0e0ce73b2434ad791345e50f986e164/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
 
 #EXTINF:-1 group-title="Sports",FIFA+ 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bc22629003949b9862a9f5808ff9e5c:6982c06ef44b8b33cf9560fd0725008d
+#KODIPROP:inputstream.adaptive.license_key=71eb31f1fe244307ac59e1aa5991f03c:a9cadb07bc047426fa0585b2115b924b
 https://d16va2jjq1g2yv.cloudfront.net/out/v1/ca05d909c272415eaff4f700b2901076/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
 
 
