@@ -93,3 +93,17 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/15906
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
+
+#EXTINF:-1 group-title="Olahraga", GolTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e48455eeaeeb50ec932d208e44012e4f:2a2e6be1ff1dda385a7db6dc0accfc6e
+https://tvup-live.secure.footprint.net/goltv/goltv.mpd
+
+#EXTINF:-1 group-title="Olahraga", SPOST TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://ctr-01277-claro-br.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOSPTHD/dsc2/manifest.mpd
