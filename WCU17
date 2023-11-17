@@ -394,14 +394,16 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
 Https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 
-#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN1.in.png",Sony sport 1
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN2.in.png",Sony sport 2
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN3.in.png",Sony sport 3
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN4.in.png",Sony sport 4
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1   tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="SONY SPORTS",Sony TEN 1 HD 
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
+#EXTINF:-1   tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="SONY SPORTS",Sony TEN 2 HD 
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
+#EXTINF:-1   tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="SONY SPORTS",Sony TEN 3 HD 
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
+#EXTINF: -1   tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="SONY SPORTS",Sony TEN 4 HD 
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
+#EXTINF:-1   tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="SONY SPORTS",Sony TEN 5 HD 
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #EXTINF:-1 tvg-id="telekomsport1.ro" group-title="ORANGE SPORTS" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport1.ro.png",Orange Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
