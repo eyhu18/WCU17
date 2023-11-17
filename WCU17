@@ -265,42 +265,42 @@ https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="ARENA PORT", ARENA SPORT 1
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="ARENA SPORT", ARENA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena1.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png" group-title="ARENA PORT", ARENA SPORT 2
+#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png" group-title="ARENA SPORT", ARENA SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena2.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png" group-title="ARENA PORT", ARENA SPORT 3
+#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png" group-title="ARENA SPORT", ARENA SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena3.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png" group-title="ARENA PORT", ARENA SPORT 4
+#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png" group-title="ARENA SPORT", ARENA SPORT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena4.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png" group-title="ARENA PORT", ARENA SPORT 5
+#EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png" group-title="ARENA SPORT", ARENA SPORT 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport6Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png" group-title="ARENA PORT", ARENA SPORT 6
+#EXTINF:-1 tvg-id="ArenaSport6Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png" group-title="ARENA SPORT", ARENA SPORT 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena6.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1x2Serbia.rs" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="SPORT AUTO", ARENA SPORT 1x2
+#EXTINF:-1 tvg-id="ArenaSport1x2Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png" group-title="ARENA SPORT", ARENA SPORT 1x2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena_1x2.mpd
 
-#EXTINF:-1 tvg-id="ArenaFightSerbia.rs" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="SPORT AUTO", ARENA FIGHT
+#EXTINF:-1 tvg-id="ArenaFightSerbia.rs" tvg-logo="" group-title="SPORT AUTO", ARENA FIGHT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena_fight.mpd
