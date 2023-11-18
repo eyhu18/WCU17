@@ -550,4 +550,4 @@ https://fls.hlsjs.ru/fls/eplayerSuperSportFootball/playlist.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", HUB PREMIER 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://github.com/heruh81/WCU17/blob/master/HP1.m3u8
+https://raw.githubusercontent.com/heruh81/myhome/main/HP1.m3u8?token=GHSAT0AAAAAACH7S47OUIEN5E5MLXKB7EIKZKY3NSA
