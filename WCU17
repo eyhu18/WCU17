@@ -546,3 +546,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sp
 #EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 https://fls.hlsjs.ru/fls/eplayerSuperSportFootball/playlist.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", HUB PREMIER 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://github.com/heruh81/WCU17/blob/master/HP1.m3u8
