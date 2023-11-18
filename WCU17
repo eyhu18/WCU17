@@ -89,18 +89,6 @@ https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&
 #KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
 https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 group-title="OTHER SPORTS", FIFA+ 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=858955fcb28f4ae3bd5b19a318b29ff4:66e263f4b9264e6d145d6c8ce0cae6bf
-https://d2h3grlsj8f9qu.cloudfront.net/out/v1/df357e7da00b4f528989176850153919/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
-
-#EXTINF:-1 group-title="OTHER SPORTS",FIFA+ 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71eb31f1fe244307ac59e1aa5991f03c:a9cadb07bc047426fa0585b2115b924b
-https://d16va2jjq1g2yv.cloudfront.net/out/v1/ca05d909c272415eaff4f700b2901076/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Asia",BeIN Sports 1 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
@@ -164,6 +152,13 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd|User-
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 
+#EXTINF:-1 group-title="DAZN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXMSw-ThVNtrqD_TwmLiKoInrm2XpLp3cyQ&usqp=CAU",DAZN 1 EPL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
+##https://webudit.cdnhks.lol/lb/premium445/index.m3u8|referer=https://widevine.licenses4.me/
+##https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcOBnVPQx9X72D7OraZYIRKPIguq28mHRB1jd_GFqyg&s" group-title="DAZN SPORTS" , DAZN 1 ES 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -203,6 +198,11 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Mani
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlLxGOGTvhj8Qf6L9cGJtGQ5H9FPpY2-dafA&usqp=CAU",Eleven 1 EPL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="ELEVEN SPORTS", ELEVEN 2  DZN
@@ -546,3 +546,6 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sp
 #EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 https://fls.hlsjs.ru/fls/eplayerSuperSportFootball/playlist.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png",SPORT TV 4
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
