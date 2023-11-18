@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://4ksuper.live/play/live.php?mac=00:1a:79:b5:63:3c&play_token=8Zz1UB3C6t&extension=ts&stream=1032529&type=m3u_plus
+http://4ksuper.live/play/live.php?mac=00:1a:79:b5:63:3c&play_token=8Zz1UB3C6t&stream=1032529&extension=m3u8
