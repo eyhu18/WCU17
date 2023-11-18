@@ -2,5 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=499454,RESOLUTION=1280x720,CODECS="avc1.640015"
-#EXTINF:-1 tvg-logo="#" group-title="Hub Premier",Hub Premier 1
 http://4ksuper.live/play/live.php?mac=00:1a:79:b5:63:3c&play_token=8Zz1UB3C6t&extension=ts&stream=1032529&type=m3u_plus
