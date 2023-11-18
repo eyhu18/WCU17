@@ -509,7 +509,7 @@ https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=591b46f7cc3d47819ab856f4cdcc84fe:dd07faa621cf6d727cf4f6337e9345c0
-https://linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
+https://bypasus-86d433abdcfd.herokuapp.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
 
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="",TYC SPORT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
