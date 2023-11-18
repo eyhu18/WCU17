@@ -541,3 +541,8 @@ http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/ch
 
 #EXTINF:-1 group-title="OTHER SPORTS", SPORT 18 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=4132800.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", SuperSportFootball (SouthAfrica)
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://fls.hlsjs.ru/fls/eplayerSuperSportFootball/playlist.m3u8
