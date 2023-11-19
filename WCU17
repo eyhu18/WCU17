@@ -294,71 +294,82 @@ https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="ARENA SPORTS", ARENA SPORT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena1.mpd
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="ARENA SPORTS", ARENA SPORTS 1
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/player.php?id=AFhfaVrEP8
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://asdfasfd.hlsjs.ru/lb/AFhfaVrEP8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png" group-title="ARENA SPORTS", ARENA SPORT 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena2.mpd
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png" group-title="ARENA SPORTS", ARENA SPORTS 2 (RS)
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://rdb.hlsjs.ru/rdb/mpkHwjAe70/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png" group-title="ARENA SPORTS", ARENA SPORT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena3.mpd
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png" group-title="ARENA SPORTS", ARENA SPORTS 2
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://asdfasfd.hlsjs.ru/lb/lqvV0FpRPe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png" group-title="ARENA SPORTS", ARENA SPORT 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena4.mpd
+#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png" group-title="ARENA SPORTS", ARENA SPORTS 4
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://asdfasfd.hlsjs.ru/lb/xEaWptXd0e/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png" group-title="ARENA SPORTS", ARENA SPORT 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
+#EXTINF:-1 group-title="DIGI SPORTS", DIGI SPORTS 1
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://fls.hlsjs.ru/fls/premium400/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport6Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png" group-title="ARENA SPORTS", ARENA SPORT 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena6.mpd
+#EXTINF:-1 group-title="DIGI SPORTS", DIGI SPORTS 2
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://asdfasfd.hlsjs.ru/lb/premium401/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport1x2Serbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png" group-title="ARENA SPORTS", ARENA SPORT 1x2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena_1x2.mpd
+#EXTINF:-1 group-title="DIGI SPORTS", DIGI SPORTS 3
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://fls.hlsjs.ru/fls/premium402/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArenaFightSerbia.rs" tvg-logo="" group-title="ARENA SPORTS", ARENA FIGHT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena_fight.mpd
+#EXTINF:-1 group-title="DIGI SPORTS", DIGI SPORTS 4
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://asdfasfd.hlsjs.ru/lb/premium403/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+#EXTINF:-1 group-title="Super Sports", SuperSportPremierLeague (SouthAfrica)
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://asdfasfd.hlsjs.ru/lb/eplayerSuperSportPL/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+#EXTINF:-1 group-title="Super Sports", SuperSportFootball (SouthAfrica)
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://fls.hlsjs.ru/fls/eplayerSuperSportFootball/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
+#EXTINF:-1 group-title="Super Sports", SuperSportVariety1
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://asdfasfd.hlsjs.ru/lb/eplayerSuperSportVariety1/playlist.m3u8
 
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",NBC SPORT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-026/stream.mpd
+#EXTINF:-1 group-title="Super Sports", SuperSportVariety2
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://asdfasfd.hlsjs.ru/lb/eplayerSuperSportVariety2/playlist.m3u8
+
+#EXTINF:-1 group-title="Super Sports", SuperSportVariety4
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://asdfasfd.hlsjs.ru/lb/eplayerSuperSportVariety4/playlist.m3u8
+
+#EXTINF:-1 group-title="Super Sports", SuperSportAction
+#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://asdfasfd.hlsjs.ru/lb/eplayerSuperSportAction/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="SKY SPORTS", Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AAMHWsFUs+4g76JLXWj5dQ","k":"Vam6lNKD/bjhI5ldfYegpA"}]}
-https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd
+https://bypasus-86d433abdcfd.herokuapp.com/https://linear010-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="SKY SPORTS", Sky Sports Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -539,13 +550,69 @@ http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=000354713f5113fd49f41f556bdf1add:9a6ca88b3b6c7088c8197a7366f2e7e5
 http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier2sports50)/manifest_hd.mpd
 
-#EXTINF:-1 group-title="OTHER SPORTS", SPORT 18 HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=4132800.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", ESPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
-#EXTINF:-1 group-title="OTHER SPORTS", SuperSportFootball (SouthAfrica)
-#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://fls.hlsjs.ru/fls/eplayerSuperSportFootball/playlist.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", ESPN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+https://edge1-ccast-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", espn2-op2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=579fc0cd11842bce9c045a0d55aa4872:bf54d928e27061a13fafdde934146472
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", espn3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", espnextra
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", espnpremium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+https://edge1-ccast-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", foxsports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", foxsports2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", foxsports3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
+
 
 #EXTINF:-1 group-title="OTHER SPORTS", HUB PREMIER 1
 https://raw.githubusercontent.com/heruh81/Sport/Repository/HP1.m3u8
