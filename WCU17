@@ -549,3 +549,6 @@ https://fls.hlsjs.ru/fls/eplayerSuperSportFootball/playlist.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", HUB PREMIER 1
 https://raw.githubusercontent.com/heruh81/Sport/Repository/HP1.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", HUB PREMIER 2
+https://raw.githubusercontent.com/heruh81/Sport/Repository/HP2.m3u8
