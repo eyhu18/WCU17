@@ -624,8 +624,8 @@ https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/Fo
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
 
 
-#EXTINF:-1 group-title="OTHER SPORTS", HUB PREMIER 1
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="OTHER SPORTS", HUB PREMIER 1
 https://raw.githubusercontent.com/heruh81/Sport/Repository/HP1.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS", HUB PREMIER 2
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="OTHER SPORTS", HUB PREMIER 2
 https://raw.githubusercontent.com/heruh81/Sport/Repository/HP2.m3u8
