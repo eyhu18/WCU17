@@ -822,7 +822,6 @@ https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/Fo
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
 
-
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 1
 https://raw.githubusercontent.com/heruh81/Sport/Repository/HP1.m3u8
 
