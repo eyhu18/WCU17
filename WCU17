@@ -836,13 +836,13 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63929
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63930
 
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL76j81EvdUKX9bJFHCcir-NVDkqVnNNidjA&usqp=CAU",🇭🇲OPTUS SPORT 4
-https://raw.githubusercontent.com/heruh81/Sport/Repository/NowSport.m3u8
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63931
 
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png",🇭🇰NOW PREMIER HK 1
-https://raw.githubusercontent.com/heruh81/Sport/Repository/NowPremier.m3u8
+https://raw.githubusercontent.com/heruh81/Sport/Repository/NowSport.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122",🇭🇰Now Sports HK 3 FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1497553&extension=ts&play_token=I9m2rjLkIJ
+https://raw.githubusercontent.com/heruh81/Sport/Repository/NowPremier.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 1
 https://raw.githubusercontent.com/heruh81/Sport/Repository/HP1.m3u8
