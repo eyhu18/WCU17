@@ -829,5 +829,5 @@ https://raw.githubusercontent.com/heruh81/Sport/Repository/HP1.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 2
 https://raw.githubusercontent.com/heruh81/Sport/Repository/HP2.m3u8
 
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 2 UHD
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP2UHD.m3u8
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 3
+https://raw.githubusercontent.com/heruh81/Sport/Repository/HP3.m3u8
