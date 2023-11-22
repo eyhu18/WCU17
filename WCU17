@@ -828,53 +828,53 @@ https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/Fo
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="OPTUS SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHu_EhcO53ZEAbU6HATb_ugU1Uq6iTl3L6A&usqp=CAU",🇭🇲OPTUS SPORT 1
-https://raw.githubusercontent.com/heruh81/Sport/Repository/OT1.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/OT1.m3u8
 
 #EXTINF:-1 group-title="OPTUS SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-2-au.png",🇭🇲OPTUS SPORT 2
-https://raw.githubusercontent.com/heruh81/Sport/Repository/OT2.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/OT2.m3u8
 
 #EXTINF:-1 group-title="OPTUS SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL76j81EvdUKX9bJFHCcir-NVDkqVnNNidjA&usqp=CAU",🇭🇲OPTUS SPORT 3
-https://raw.githubusercontent.com/heruh81/Sport/Repository/OT3.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/OT3.m3u8
 
 #EXTINF:-1 group-title="OPTUS SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL76j81EvdUKX9bJFHCcir-NVDkqVnNNidjA&usqp=CAU",🇭🇲OPTUS SPORT 4
-https://raw.githubusercontent.com/heruh81/Sport/Repository/OT4.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/OT4.m3u8
 
 #EXTINF:-1 group-title="OPTUS SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL76j81EvdUKX9bJFHCcir-NVDkqVnNNidjA&usqp=CAU",🇭🇲OPTUS SPORT 6
-https://raw.githubusercontent.com/heruh81/Sport/Repository/OT6.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/OT6.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png",🇭🇰NOW PREMIER HK 1
-https://raw.githubusercontent.com/heruh81/Sport/Repository/NowEPL.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/NowEPL.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 1
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP1.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP1.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 2
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP2.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP2.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 3
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP3.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP3.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 4
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP4.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP4.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 5
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP5.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP5.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 6
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP6.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP6.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 7
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP7.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP7.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 8
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP8.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP8.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 9
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP9.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP9.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 10
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP10.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP10.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 11
-https://raw.githubusercontent.com/heruh81/Sport/Repository/HP11.m3u8
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP11.m3u8
 
