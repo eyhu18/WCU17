@@ -887,3 +887,9 @@ https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP11.m3u8
 
 #EXTINF:-1 group-title="HUB SPORTS", HUB SPORTS 1
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/HS1.m3u8
+
+#EXTINF:-1 group-title="HUB SPORTS", HUB SPORTS 2
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HS2.m3u8
+
+#EXTINF:-1 group-title="HUB SPORTS", HUB SPORTS 3
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/HS3.m3u8
