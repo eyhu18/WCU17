@@ -539,36 +539,6 @@ https://fls.hlsjs.ru/fls/premium402/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 https://asdfasfd.hlsjs.ru/lb/premium403/playlist.m3u8
 
-#EXTINF:-1 group-title="Super Sports", SuperSportPremierLeague (SouthAfrica)
-#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://asdfasfd.hlsjs.ru/lb/eplayerSuperSportPL/playlist.m3u8
-
-#EXTINF:-1 group-title="Super Sports", SuperSportFootball (SouthAfrica)
-#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://fls.hlsjs.ru/fls/eplayerSuperSportFootball/playlist.m3u8
-
-#EXTINF:-1 group-title="Super Sports", SuperSportVariety1
-#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://asdfasfd.hlsjs.ru/lb/eplayerSuperSportVariety1/playlist.m3u8
-
-#EXTINF:-1 group-title="Super Sports", SuperSportVariety2
-#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://asdfasfd.hlsjs.ru/lb/eplayerSuperSportVariety2/playlist.m3u8
-
-#EXTINF:-1 group-title="Super Sports", SuperSportVariety4
-#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://asdfasfd.hlsjs.ru/lb/eplayerSuperSportVariety4/playlist.m3u8
-
-#EXTINF:-1 group-title="Super Sports", SuperSportAction
-#EXTVLCOPT:http-referrer=https://player.hlsjs.ru/
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://asdfasfd.hlsjs.ru/lb/eplayerSuperSportAction/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="SKY SPORTS", Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
