@@ -1142,7 +1142,9 @@ http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/6275
 #EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Ultra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/90309da37797c49b93102e26d1ba71c4.png" group-title="V-Play Sports",SE: V Sport Ultra
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/192678
 #EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Vinter" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3e728b9b011a9e6490de1988e4c8f45a.png" group-title="V-Play Sports",SE: V Sport Vinter
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/295029
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/295029\
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/183da74beb63ba7ef939532adb358cfe.svg" group-title="V-Play Sports",NO: V Sport +
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/295309
 
 #EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/092ca41b13e75bb3663f7edb9d51dd11.png" group-title="Yes Sports",IL: Yes Sport 1
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/14785
