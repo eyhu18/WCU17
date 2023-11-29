@@ -1156,3 +1156,35 @@ https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"YQmmvYbtrvEye7VRF9GQGw", "kid":"nNGsnmSYTwCdAAt2p4yFNQ" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka VPN" tvg-logo="https://telegra.ph/file/47c8bb0c2539e976de2bf.png" tvg-id="beINSports3",beIN Sports 5
 https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
+
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/10637
+#EXTINF:-1 tvg-id="" tvg-name="SE: V sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a40e12527b18b62a87f66f8a64665998.png" group-title="VPlay Sports",SE: V sport 1
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/298468
+#EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad8b38b4dc9ba0bfc0e68a252ec037bd.png" group-title="VPlay Sports",SE: V Sport Extra
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/198403
+#EXTINF:-1 tvg-id="viasatfotboll.se" tvg-name="SE: V Sport Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/da06af9e86dd680c4aed3671c915a745.png" group-title="Sweden ➾ Football",SE: V Sport Football
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/6272
+#EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="SE: V Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0de9b5c2e3ed2fc0346a675d5bfde849.png" group-title="VPlay Sports",SE: V Sport Golf
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/10652
+#EXTINF:-1 tvg-id="viasatmotor.se" tvg-name="SE: V Sport Motor" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8a497fb2fb07bc400646280b7eef8884.png" group-title="VPlay Sports",SE: V Sport Motor
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/6273
+#EXTINF:-1 tvg-id="viasatsport.se" tvg-name="SE: V Sport Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9d88105ec852b210fcc224cee8c9998e.png" group-title="VPlay Sports",SE: V Sport Premium
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/6275
+#EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Ultra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/90309da37797c49b93102e26d1ba71c4.png" group-title="VPlay Sports",SE: V Sport Ultra
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/192678
+#EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Vinter" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3e728b9b011a9e6490de1988e4c8f45a.png" group-title="VPlay Sports",SE: V Sport Vinter
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/295029
+
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/092ca41b13e75bb3663f7edb9d51dd11.png" group-title="Yes Sports",IL: Yes Sport 1
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/14785
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ea5f7e1657fe4ca80ec2c9b4c71c43db.png" group-title="Yes Sports",IL: Yes Sport 2
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/14787
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/a00c1aac9c07960a982c16385e23460b.png" group-title="Yes Sports",IL: Yes Sport 3
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/91282
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/89a451a18fa4be6ffe0b50d5ad2a6f4a.png" group-title="Yes Sports",IL: Yes Sport 4
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/40609
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9678624c67f6ef9d184369e3bb25a73f.png" group-title="Yes Sports",IL: Yes Sport 5
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/299189
+
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports California" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b3abb90264b7d0e52f520daf34324068.png" group-title="OTHER SPORTS",US: NBC Sports California
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/16116
