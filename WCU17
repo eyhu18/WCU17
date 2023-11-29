@@ -930,7 +930,6 @@ https://raw.githubusercontent.com/eyhu18/Sport/Repository/HS2.m3u8
 #EXTINF:-1 group-title="HUB SPORTS", HUB SPORTS 3
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/HS3.m3u8
 
-
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Astro Sports",Astro SuperSport 1
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/ASTOR1.m3u8
 
@@ -943,15 +942,17 @@ https://raw.githubusercontent.com/eyhu18/Sport/Repository/ASTOR3.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Astro Sports",Astro SuperSport 4
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/ASTOR4.m3u8
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p5QBiWoNIBJ+HYm+JMrZqQ", "kid":"tyY2fOZtPeSOpRp4nAeETg" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE MAXSTREAM" tvg-logo="xxxx",HBO
+#EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",HBO
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
-#EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE MAXSTREAM" tvg-logo="xxxx",HBO Signature
+#EXTINF:-1 group-title="MOVIE CHANNEL", Rakuten TV
+https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/e40c653c-94e0-46e5-9c89-515658fb11a3/1.m3u8
+
+#EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -959,21 +960,21 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 
-#EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE MAXSTREAM" tvg-logo="xxxx",HBO Hits
+#EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=753bf308ed7b35ff87506ca03847d42d:5edd4c163d5fb96137f6846fea88208b
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
-#EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE MAXSTREAM" tvg-logo="xxxx",HBO Family
+#EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c97626ac21bf3c228acd8c917073cb23:e1607dfaa05a86417fb6b4bd95fc3493
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
-#EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE MAXSTREAM" tvg-logo="xxxx",Cinemax
+#EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
