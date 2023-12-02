@@ -899,6 +899,11 @@ https://webudit.webhd.ru/lb/premium125/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 https://webudit.webhd.ru/lb/premium126/index.m3u8
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/thecrewwh/zips/master/matrix/_zip/plugin.video.daddylive/icon.png" group-title="Astro Sports",Astro SuperSport 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://webudit.webhd.ru/lb/premium43/index.m3u8
+
 #EXTINF:-1 group-title="MOVIE CHANNEL", IMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
