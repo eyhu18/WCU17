@@ -11,17 +11,17 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 channel-id="samsung-ESBC2700008SK" tvg-id="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" tvg-chno="4136" group-title="LOKAL CHANNEL" , Just For Laughs
 https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
 
-#EXTINF:-1 group-title="LOKAL CHANNEL",CURIOSITY
+#EXTINF:-1 group-title="LOKAL CHANNEL", CURIOSITY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:-1 group-title="LOKAL CHANNEL",ANIMAL PLANET
+#EXTINF:-1 group-title="LOKAL CHANNEL", ANIMAL PLANET
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
-#EXTINF:-1 group-title="LOKAL CHANNEL",DISCOVERY
+#EXTINF:-1 group-title="LOKAL CHANNEL", DISCOVERY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
@@ -694,7 +694,7 @@ https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1eeecb688be04a358b48d040e5ce3e59":"986c128156ba5a01b36fdd7c10c34e0c","7d169583d69d4ff997465fcda11743a8":"ac55341e5a29db0966c6ddab2966a581","1609061574ff4e0195ec3e98a6adc2de":"a96022260ad6e857a731813a9b308dfe"}
-https://bypasus-86d433abdcfd.herokuapp.com/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/PolsatPRE1/hd2-dashdrm02/PolsatPRE1.mpd
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/PolsatPRE1/hd2-dashdrm02/PolsatPRE1.mpd
 
 #EXTINF:-1 tvg-id="OTHER" tvg-name="SPORTS" tvg-logo="" group-title="OTHER SPORTS",MATCH 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
