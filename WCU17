@@ -880,16 +880,24 @@ https://raw.githubusercontent.com/eyhu18/Sport/Repository/HS2.m3u8
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/HS3.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Astro Sports",Astro SuperSport 1
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ASTOR1.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.webhd.ru/lb/premium123/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Astro Sports",Astro SuperSport 2
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ASTOR2.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://webudit.hlsjs.ru/lb/premium124/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Astro Sports",Astro SuperSport 3
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ASTOR3.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://webudit.webhd.ru/lb/premium125/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Astro Sports",Astro SuperSport 4
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ASTOR4.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+https://webudit.webhd.ru/lb/premium126/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE CHANNEL", IMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
