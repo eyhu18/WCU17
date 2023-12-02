@@ -955,9 +955,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c6cf957dc6734d2180f925803191c00a:832a77339128fd038ceaf6f80ab35f69
 https://cdn08jtedge.indihometv.com/dassdvr/107/celestialmovie/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIE CHANNEL", Rakuten TV
-https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/e40c653c-94e0-46e5-9c89-515658fb11a3/1.m3u8
-
 #EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
