@@ -1182,22 +1182,22 @@ http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/295029\
 #EXTINF:-1 tvg-id="" tvg-name="NO: V Sport +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/183da74beb63ba7ef939532adb358cfe.svg" group-title="V-Play Sports",NO: V Sport +
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/295309
 
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR014:COSMOTE SPORT 1
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR014:COSMOTE SPORT 1
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE1.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR015:COSMOTE SPORT 2
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR015:COSMOTE SPORT 2
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE2.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR016:COSMOTE SPORT 3
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR016:COSMOTE SPORT 3
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE3.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR017:COSMOTE SPORT 4
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR017:COSMOTE SPORT 4
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE4.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR018:COSMOTE SPORT 5
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR018:COSMOTE SPORT 5
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE5.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR019:COSMOTE SPORT 6
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR019:COSMOTE SPORT 6
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports California" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b3abb90264b7d0e52f520daf34324068.png" group-title="OTHER SPORTS",US: NBC Sports California
