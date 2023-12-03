@@ -1175,16 +1175,23 @@ http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/295029\
 #EXTINF:-1 tvg-id="" tvg-name="NO: V Sport +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/183da74beb63ba7ef939532adb358cfe.svg" group-title="V-Play Sports",NO: V Sport +
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/295309
 
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/092ca41b13e75bb3663f7edb9d51dd11.png" group-title="Yes Sports",IL: Yes Sport 1
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/14785
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ea5f7e1657fe4ca80ec2c9b4c71c43db.png" group-title="Yes Sports",IL: Yes Sport 2
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/14787
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/a00c1aac9c07960a982c16385e23460b.png" group-title="Yes Sports",IL: Yes Sport 3
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/91282
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/89a451a18fa4be6ffe0b50d5ad2a6f4a.png" group-title="Yes Sports",IL: Yes Sport 4
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/40609
-#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9678624c67f6ef9d184369e3bb25a73f.png" group-title="Yes Sports",IL: Yes Sport 5
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/299189
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR014:COSMOTE SPORT 1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31223
+
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR015:COSMOTE SPORT 2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31222
+
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR016:COSMOTE SPORT 3
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31221
+
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR017:COSMOTE SPORT 4
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31220
+
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR018:COSMOTE SPORT 5
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31219
+
+#EXTINF:-1 tvg-logo="#" group-title="COSMOTE", GR019:COSMOTE SPORT 6
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31218
 
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports California" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b3abb90264b7d0e52f520daf34324068.png" group-title="OTHER SPORTS",US: NBC Sports California
 http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/16116
