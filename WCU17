@@ -363,6 +363,13 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd|User-
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
+#EXTINF:-1 group-title="ELEVENT SPORTS" tvg-logo="https://iptvboss.xyz/logos/Portugal/ELEVENSPORTS4.pt.png", Eleven4 PL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0bc811aaa10a4c3198aa3b6679198382":"609b0c987d1657f1adc7aa53ae733200","2c7dea2fa563424789ea200675e56817":"5bf4b84797df5a8ac149c5bb69d639c4","a662726cb8804451961d356d65ba8450":"47f362b448bd8f63d2402d428d352aed"}
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZmH1y8.png", group-title="ELEVEN SPORTS",Eleven Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -692,14 +699,14 @@ https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="1609061574ff4e0195ec3e98a6adc2de":"a96022260ad6e857a731813a9b308dfe","1eeecb688be04a358b48d040e5ce3e59":"986c128156ba5a01b36fdd7c10c34e0c","7d169583d69d4ff997465fcda11743a8":"ac55341e5a29db0966c6ddab2966a581"
+#KODIPROP:inputstream.adaptive.license_key={"1609061574ff4e0195ec3e98a6adc2de":"a96022260ad6e857a731813a9b308dfe","1eeecb688be04a358b48d040e5ce3e59":"986c128156ba5a01b36fdd7c10c34e0c","7d169583d69d4ff997465fcda11743a8":"ac55341e5a29db0966c6ddab2966a581"}
 https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/PolsatPRE1/hd2-dashdrm02/PolsatPRE1.mpd
 
 #EXTINF:-1 group-title="OTHER SPORTS", POLSAT PREMIUM 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="1b335bf3fabe44ee902c0cca04044c6d":"b04a1a13e48b55ce793bf90453baa79e","a6238a4a4a004a73aa89b313c1f54dfa":"9be91513d9b3c60cd01226a682d753fc"
+#KODIPROP:inputstream.adaptive.license_key={"1b335bf3fabe44ee902c0cca04044c6d":"b04a1a13e48b55ce793bf90453baa79e","a6238a4a4a004a73aa89b313c1f54dfa":"9be91513d9b3c60cd01226a682d753fc"}
 https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/PolsatPRE2/hd2-dashdrm02/PolsatPRE2.mpd
 
 #EXTINF:-1 tvg-id="OTHER" tvg-name="SPORTS" tvg-logo="" group-title="OTHER SPORTS",MATCH 1
