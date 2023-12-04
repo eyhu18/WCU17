@@ -675,6 +675,28 @@ https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", Setanta Sports 2 HD
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 
+#EXTINF:-1 group-title="OTHER SPORTS", Canal+ Sport2 PL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4f7fa9f0250a43cea8aebd8167f1fc81":"f6bbc783b0e7a46a147e673a4347730a","89787fecb0ac43ab86aa356054e2a183":"f5c080517f6c4366b1930315a6aa70e7","f5c080517f6c4366b1930315a6aa70e7":"581eba7045254d1de036557789932a05"} 
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", CANAL+ Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"274cafc63e854f9ca14acbc49af103a0":"4dc63ff74dc5415f3c0c63b62f8fedaa","b4274e5bdb7e4370bb87af609a74a64e":"4763cbd2fa26f4de8bead22db09b0f46","009d1ea463574791a88e5d008f7ab15c":"fa4812bd0d608c2f8bfeb02fb213320d"}
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", Ziggo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90e32a4712f5480bab7abc8a4fef25da:2eeb49a8688f2365e1131cf4ae4d6f0a
+https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
+
+
 #EXTINF:-1 group-title="OTHER SPORTS", POLSAT PREMIUM 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
