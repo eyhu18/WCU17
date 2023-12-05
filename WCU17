@@ -815,6 +815,27 @@ https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/Fo
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 https://bypasus-86d433abdcfd.herokuapp.com/https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
 
+#EXTINF:-1 group-title="OTHER SPORTS", Canal+ Sport2 PL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"T3-p8CUKQ86orr2BZ_H8gQ","k":"9rvHg7DnpGoUfmc6Q0dzCg"},{"kty":"oct","kid":"iXh_7LCsQ6uGqjVgVOKhgw","k":"9cCAUX9sQ2axkwMVpqpw5w"},{"kty":"oct","kid":"9cCAUX9sQ2axkwMVpqpw5w","k":"WB66cEUlTR3gNlV3iZMqBQ"}],"type":"temporary"} 
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", CANAL+ Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"J0yvxj6FT5yhSsvEmvEDoA","k":"TcY_903FQV88DGO2L4_tqg"},{"kty":"oct","kid":"tCdOW9t-Q3C7h69gmnSmTg","k":"R2PL0vom9N6L6tItsJsPRg"},{"kty":"oct","kid":"AJ0epGNXR5Gojl0Aj3qxXA","k":"-kgSvQ1gjC-L_rAvshMyDQ"}],"type":"temporary"}
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS", Ziggo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kOMqRxL1SAureryKT-8l2g","k":"LutJqGiPI2XhExz0rk1vCg"}],"type":"temporary"}
+https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
+
 #EXTINF:-1 group-title="OTHER SPORTS",Redbull TV
 #EXTVLCOPT:http-referrer=https://rbmn-live.akamaized.ne
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
