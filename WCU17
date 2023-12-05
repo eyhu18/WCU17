@@ -136,35 +136,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZHVuaWFsYWluMDAwMDAwMA","k":"10IhiVjhDKmJvmpj8tubbQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTINF:-1 group-title="LOKAL SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg", NBA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aWRrdV8xMDAwMDAwMDAwMA","k":"5KI1mwVWM5nx2a385kFySg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba_dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="LOKAL SPORTS" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg", HORIZON SPORT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aG9yaXpvbnNwb3J0MDAwMA","k":"HqItRyistwT0od14ylxZpQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=686f72697a6f6e73706f727430303030:1ea22d4728acb704f4a1dd78ca5c59a5
 https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport_dash/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="LOKAL SPORTS", BEIN 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6d42f176b6f6488fac50a86b10e46fe5":"933ab897d63a98546fdb303be185551d"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=6d42f176b6f6488fac50a86b10e46fe5:933ab897d63a98546fdb303be185551d
 https://cdn08jtedge.indihometv.com/dassdvr/107/bein1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="LOKAL SPORTS", BEIN 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UbTnRAxUS7a6Gkaf467GCg","k":"nyy73nK0gwa2lCykyoW1ww"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=51b4e7440c544bb6ba1a469fe3aec60a:9f2cbbde72b48306b6942ca4ca85b5c3
 https://cdn08jtedge.indihometv.com/dassdvr/107/bein2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -184,7 +176,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yfN5XQodRrUF_VtdNJU97A","k":"7zu0gOYxM5zjaQ1RnzKPvQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
 #http://www.ieg.id/tv-channel/champions-tv-2/
@@ -193,7 +185,7 @@ https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"40pPe6jM_j9eFNhBOvjW-A","k":"IPKOqoWSEo2iAyoMBfx7Eg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 
 #http://www.ieg.id/tv-channel/champions-tv-3/
@@ -202,14 +194,14 @@ https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"G8PmzFcNi69-3V1osb6gyQ","k":"-R7ZpSzALpMlUcnMl98M3A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eSybOCYVxH_fuEDf0jh7iw","k":"yGGRr8NyxQBuurbovfYeFA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
 #EXTINF:-1 group-title="LOKAL SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg",JUARA TV 5
 https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
 
@@ -218,7 +210,7 @@ https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oGBYRtHw3BU1N7BNX-9llA","k":"r3R_6ExshQxkY2StC5bGzw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="LOKAL SPORTS", MU TV
@@ -228,28 +220,28 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SeKqftUPyYuJUCPIejKhgw","k":"VwYmZcHvhIGRHmjhdlXI7A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
 https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 tvg-id="Prima Sport 2" group-title="PRIMA SPORTS" tvg-logo="https://i.ibb.co/Byp48qP/PRIMASPORT2.png", PRIMA SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"lsMRZ2wIVF6mquN2aOSg3w","k":"ZPykpIwU0rMq_NU5cc-mLA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
 https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 tvg-id="Prima Sport 3" group-title="PRIMA SPORTS" tvg-logo="https://i.ibb.co/J2QffZq/PRIMASPORT3.png", PRIMA SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"lATnrifc4i1p1B_8KRl87w","k":"phdxKCOP53XVx0gD4VrBdQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
 https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 tvg-id="Prima Sport 4" group-title="PRIMA SPORTS" tvg-logo="https://i.ibb.co/BVtHFv8/PRIMASPORT4.png", PRIMA SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xo7C5SXYQGtsPO26xy3rrg","k":"oPKPk_uYNNMx3z3e3rilZQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
 https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Asia",BeIN Sports 1 AIS
@@ -683,28 +675,6 @@ https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", Setanta Sports 2 HD
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS", Canal+ Sport2 PL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4f7fa9f0250a43cea8aebd8167f1fc81":"f6bbc783b0e7a46a147e673a4347730a","89787fecb0ac43ab86aa356054e2a183":"f5c080517f6c4366b1930315a6aa70e7","f5c080517f6c4366b1930315a6aa70e7":"581eba7045254d1de036557789932a05"} 
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS", CANAL+ Sport 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"274cafc63e854f9ca14acbc49af103a0":"4dc63ff74dc5415f3c0c63b62f8fedaa","b4274e5bdb7e4370bb87af609a74a64e":"4763cbd2fa26f4de8bead22db09b0f46","009d1ea463574791a88e5d008f7ab15c":"fa4812bd0d608c2f8bfeb02fb213320d"}
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS", Ziggo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=90e32a4712f5480bab7abc8a4fef25da:2eeb49a8688f2365e1131cf4ae4d6f0a
-https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
-
-
 #EXTINF:-1 group-title="OTHER SPORTS", POLSAT PREMIUM 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -987,14 +957,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xs-VfcZzTSGA-SWAMZHACg","k":"gyp3M5Eo_QOM6vb4CrNfaQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=c6cf957dc6734d2180f925803191c00a:832a77339128fd038ceaf6f80ab35f69
 https://cdn08jtedge.indihometv.com/dassdvr/107/celestialmovie/manifest.mpd
 
 #EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NLIWzDYLMrqftAIcTfMxXw","k":"pkHUxq9HBjj6fMosXTfL0g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=34b216cc360b32ba9fb4021c4df3315f:a641d4c6af470638fa7cca2c5d37cbd2
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 
@@ -1002,21 +972,21 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dTvzCO17Nf-HUGygOEfULQ","k":"Xt1MFj1fuWE39oRv6oggiw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=753bf308ed7b35ff87506ca03847d42d:5edd4c163d5fb96137f6846fea88208b
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yXYmrCG_PCKKzYyRcHPLIw","k":"4WB9-qBahkF_trS9lfw0kw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=c97626ac21bf3c228acd8c917073cb23:e1607dfaa05a86417fb6b4bd95fc3493
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 #EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SdV0RzX3Of6Lx2PzWnDFMw","k":"swLD6GPnDLVcbu43sS-K6Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=49d5744735f739fe8bc763f35a70c533:b302c3e863e70cb55c6eee37b12f8ae9
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
