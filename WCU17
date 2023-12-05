@@ -157,7 +157,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport_dash/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bULxdrb2SI-sUKhrEORv5Q","k":"kzq4l9Y6mFRv2zA74YVVHQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"6d42f176b6f6488fac50a86b10e46fe5":"933ab897d63a98546fdb303be185551d"}
 https://cdn08jtedge.indihometv.com/dassdvr/107/bein1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="LOKAL SPORTS", BEIN 2
