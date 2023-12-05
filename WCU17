@@ -184,7 +184,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yfN5XQodRrUF_VtdNJU97A","k":"7zu0gOYxM5zjaQ1RnzKPvQ"}],"type":"temporary"}
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
 #http://www.ieg.id/tv-channel/champions-tv-2/
