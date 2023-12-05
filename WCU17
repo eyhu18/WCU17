@@ -982,14 +982,14 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dTvzCO17Nf-HUGygOEfULQ","k":"Xt1MFj1fuWE39oRv6oggiw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"753bf308ed7b35ff87506ca03847d42d":"5edd4c163d5fb96137f6846fea88208b"}
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yXYmrCG_PCKKzYyRcHPLIw","k":"4WB9-qBahkF_trS9lfw0kw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"c97626ac21bf3c228acd8c917073cb23":"e1607dfaa05a86417fb6b4bd95fc3493"}
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 #EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",Cinemax
