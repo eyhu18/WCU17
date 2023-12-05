@@ -136,27 +136,35 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZHVuaWFsYWluMDAwMDAwMA","k":"10IhiVjhDKmJvmpj8tubbQ"}],"type":"temporary"}
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTINF:-1 group-title="LOKAL SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg", NBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aWRrdV8xMDAwMDAwMDAwMA","k":"5KI1mwVWM5nx2a385kFySg"}],"type":"temporary"}
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba_dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="LOKAL SPORTS" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg", HORIZON SPORT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=686f72697a6f6e73706f727430303030:1ea22d4728acb704f4a1dd78ca5c59a5
+#KODIPROP:inputstream.adaptive.license_key={"686f72697a6f6e73706f727430303030":"1ea22d4728acb704f4a1dd78ca5c59a5"}
 https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport_dash/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="LOKAL SPORTS", BEIN 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=6d42f176b6f6488fac50a86b10e46fe5:933ab897d63a98546fdb303be185551d
+#KODIPROP:inputstream.adaptive.license_key={"6d42f176b6f6488fac50a86b10e46fe5":"933ab897d63a98546fdb303be185551d"}
 https://cdn08jtedge.indihometv.com/dassdvr/107/bein1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="LOKAL SPORTS", BEIN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=51b4e7440c544bb6ba1a469fe3aec60a:9f2cbbde72b48306b6942ca4ca85b5c3
+#KODIPROP:inputstream.adaptive.license_key={"51b4e7440c544bb6ba1a469fe3aec60a":"9f2cbbde72b48306b6942ca4ca85b5c3"}
 https://cdn08jtedge.indihometv.com/dassdvr/107/bein2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
