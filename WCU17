@@ -833,7 +833,7 @@ https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport3HD/hd2-dashdrm02
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kOMqRxL1SAureryKT-8l2g","k":"LutJqGiPI2XhExz0rk1vCg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"90e32a4712f5480bab7abc8a4fef25da":"2eeb49a8688f2365e1131cf4ae4d6f0a"}
 https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
 
 #EXTINF:-1 group-title="OTHER SPORTS",Redbull TV
