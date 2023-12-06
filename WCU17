@@ -666,7 +666,47 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 group-title="V-Play Sports", Viaplay Extra
+#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportfootball.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
+https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
+
+#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ae9eb255000c9ea429c5a077ef9211d4:4aeb818921f4d3a553295b02524bb53d
+https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd 
+
+#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
+https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
+
+#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webudit.hlsjs.ru/lb/premium451/index.m3u8
+
+#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webudit.hlsjs.ru/lb/premium550/index.m3u8
+
+#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport Extra
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
+https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+
+#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zjfiA3TlW-a7TSaDevJ2BQ","k":"UsxTL3SPy_K4BtrUKJv4TA"}]}
+https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+
+#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zQIum/+moNFSPuXZ/Nqe1A", "kid":"6rE+aXk3Vu2nfY1x/akNXQ" } ], "type":"temporary" }
+https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports Xtra
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", Setanta Sports 1 HD
@@ -674,13 +714,6 @@ https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", Setanta Sports 2 HD
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-
-#EXTINF:-1 group-title="OTHER SPORTS", POLSAT PREMIUM 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7d169583d69d4ff997465fcda11743a8":"ac55341e5a29db0966c6ddab2966a581","1609061574ff4e0195ec3e98a6adc2de":"a96022260ad6e857a731813a9b308dfe","1eeecb688be04a358b48d040e5ce3e59":"986c128156ba5a01b36fdd7c10c34e0c"}
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/PolsatPRE1/hd2-dashdrm02/PolsatPRE1.mpd
 
 #EXTINF:-1 tvg-id="OTHER" tvg-name="SPORTS" tvg-logo="" group-title="OTHER SPORTS",MATCH 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -801,20 +834,6 @@ https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/Fo
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 https://bypasus-86d433abdcfd.herokuapp.com/https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
 
-#EXTINF:-1 group-title="OTHER SPORTS", Canal+ Sport2 PL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"T3-p8CUKQ86orr2BZ_H8gQ","k":"9rvHg7DnpGoUfmc6Q0dzCg"},{"kty":"oct","kid":"iXh_7LCsQ6uGqjVgVOKhgw","k":"9cCAUX9sQ2axkwMVpqpw5w"},{"kty":"oct","kid":"9cCAUX9sQ2axkwMVpqpw5w","k":"WB66cEUlTR3gNlV3iZMqBQ"}],"type":"temporary"} 
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS", CANAL+ Sport 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"J0yvxj6FT5yhSsvEmvEDoA","k":"TcY_903FQV88DGO2L4_tqg"},{"kty":"oct","kid":"tCdOW9t-Q3C7h69gmnSmTg","k":"R2PL0vom9N6L6tItsJsPRg"},{"kty":"oct","kid":"AJ0epGNXR5Gojl0Aj3qxXA","k":"-kgSvQ1gjC-L_rAvshMyDQ"}],"type":"temporary"}
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd
-
 #EXTINF:-1 group-title="OTHER SPORTS", Ziggo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -843,73 +862,6 @@ https://raw.githubusercontent.com/eyhu18/Sport/Repository/OT6.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png",🇭🇰NOW PREMIER HK 1
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/NowEPL.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 1
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP1.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 2
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP2.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 3
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP3.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 4
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP4.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 5
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP5.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 6
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP6.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 7
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP7.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 8
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP8.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 9
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP9.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 10
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP10.m3u8
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png" group-title="HUB SPORTS", HUB PREMIER 11
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HP11.m3u8
-
-#EXTINF:-1 group-title="HUB SPORTS", HUB SPORTS 1
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HS1.m3u8
-
-#EXTINF:-1 group-title="HUB SPORTS", HUB SPORTS 2
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HS2.m3u8
-
-#EXTINF:-1 group-title="HUB SPORTS", HUB SPORTS 3
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/HS3.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Astro Sports",Astro SuperSport 1
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.webhd.ru/lb/premium123/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Astro Sports",Astro SuperSport 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://webudit.hlsjs.ru/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Astro Sports",Astro SuperSport 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://webudit.webhd.ru/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="Astro Sports",Astro SuperSport 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://webudit.webhd.ru/lb/premium126/index.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/thecrewwh/zips/master/matrix/_zip/plugin.video.daddylive/icon.png" group-title="Astro Sports",Astro SuperSport 5
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-https://webudit.webhd.ru/lb/premium43/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE CHANNEL", IMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
