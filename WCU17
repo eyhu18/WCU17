@@ -682,13 +682,6 @@ https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"7d169583d69d4ff997465fcda11743a8":"ac55341e5a29db0966c6ddab2966a581","1609061574ff4e0195ec3e98a6adc2de":"a96022260ad6e857a731813a9b308dfe","1eeecb688be04a358b48d040e5ce3e59":"986c128156ba5a01b36fdd7c10c34e0c"}
 https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/PolsatPRE1/hd2-dashdrm02/PolsatPRE1.mpd
 
-#EXTINF:-1 group-title="OTHER SPORTS", POLSAT PREMIUM 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1b335bf3fabe44ee902c0cca04044c6d":"b04a1a13e48b55ce793bf90453baa79e","a6238a4a4a004a73aa89b313c1f54dfa":"9be91513d9b3c60cd01226a682d753fc"}
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/PolsatPRE2/hd2-dashdrm02/PolsatPRE2.mpd
-
 #EXTINF:-1 tvg-id="OTHER" tvg-name="SPORTS" tvg-logo="" group-title="OTHER SPORTS",MATCH 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -723,13 +716,6 @@ https://bypasus-86d433abdcfd.herokuapp.com/https://linear-novi.stvacdn.spectrum.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS", SPOST TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://ctr-01277-claro-br.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOSPTHD/dsc2/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="OTHER SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="OTHER SPORTS",Premier Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1163,43 +1149,3 @@ https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"YQmmvYbtrvEye7VRF9GQGw", "kid":"nNGsnmSYTwCdAAt2p4yFNQ" }], "type":"temporary" }
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka VPN" tvg-logo="https://telegra.ph/file/47c8bb0c2539e976de2bf.png" tvg-id="beINSports3",beIN Sports 5
 https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="SE: V sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a40e12527b18b62a87f66f8a64665998.png" group-title="V-Play Sports",SE: V sport 1
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/298468
-#EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad8b38b4dc9ba0bfc0e68a252ec037bd.png" group-title="V-Play Sports",SE: V Sport Extra
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ViaplayExt.m3u8
-#EXTINF:-1 tvg-id="viasatfotboll.se" tvg-name="SE: V Sport Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/da06af9e86dd680c4aed3671c915a745.png" group-title="V-Play Sports",SE: V Sport Football
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ViaplayFoot.m3u8
-#EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="SE: V Sport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0de9b5c2e3ed2fc0346a675d5bfde849.png" group-title="V-Play Sports",SE: V Sport Golf
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/10652
-#EXTINF:-1 tvg-id="viasatmotor.se" tvg-name="SE: V Sport Motor" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8a497fb2fb07bc400646280b7eef8884.png" group-title="V-Play Sports",SE: V Sport Motor
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/6273
-#EXTINF:-1 tvg-id="viasatsport.se" tvg-name="SE: V Sport Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9d88105ec852b210fcc224cee8c9998e.png" group-title="V-Play Sports",SE: V Sport Premium
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ViaplayPREMI.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Ultra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/90309da37797c49b93102e26d1ba71c4.png" group-title="V-Play Sports",SE: V Sport Ultra
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/192678
-#EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Vinter" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3e728b9b011a9e6490de1988e4c8f45a.png" group-title="V-Play Sports",SE: V Sport Vinter
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/295029\
-#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/183da74beb63ba7ef939532adb358cfe.svg" group-title="V-Play Sports",NO: V Sport +
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/295309
-
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR014:COSMOTE SPORT 1
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE1.m3u8
-
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR015:COSMOTE SPORT 2
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE2.m3u8
-
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR016:COSMOTE SPORT 3
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE3.m3u8
-
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR017:COSMOTE SPORT 4
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE4.m3u8
-
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR018:COSMOTE SPORT 5
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE5.m3u8
-
-#EXTINF:-1 tvg-logo="#" group-title="COSMOTE SPORTS", GR019:COSMOTE SPORT 6
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/COSMOTE6.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports California" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b3abb90264b7d0e52f520daf34324068.png" group-title="OTHER SPORTS",US: NBC Sports California
-http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/16116
