@@ -1098,3 +1098,24 @@ https://webudit.hlsjs.ru/lb/premium126/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS", BEIN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SOaV649ySvmHav4C0qu15g","k":"hU5VmsjoRbIfkKlgTH7N7Q"},{"kty":"oct","kid":"L4_eoDJDTiCAMkFbIK77ow","k":"nYxcemnahiDvqrn-NQGjrw"},{"kty":"oct","kid":"F5NCBP6oQy6CzprZs5gM3A","k":"ksfNR6w2M5cd8C7NYhQrGw"},{"kty":"oct","kid":"8wZw7GvCRPeJK9hhVgrNmA","k":"tp_83l3UGoNQzixYe_A6jQ"}]}
+https://cors.seljebu.no/https://hls-m009-live-aka-canalplus.akamaized.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS", BEIN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zLQLfFliQN2GMqwf320oig","k":"Yk6VvFtKvsbZXyF8mmN6xQ"},{"kty":"oct","kid":"jS53LzjbQ/igIM/79KKPPg","k":"KRqCCNvFDIZWEnk10qBSDw"},{"kty":"oct","kid":"oM5f9hyWQDuroS2hEVbT2Q","k":"fW0ba3lohu5PiU4GrJCgFQ"},{"kty":"oct","kid":"dglhcyADRZi/hrYWBbGr0Q","k":"Qpv5dOWCmWUhqGpHnIcFYQ"}]}
+https://cors.seljebu.no/http://hls-m007-live-aka-canalplus.akamaized.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEIN SPORTS", BEIN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vR4Fo97/SUqUjNAP/gSprg","k":"OGxFxii0NbtZjh/5XpGqjg"},{"kty":"oct","kid":"kKh4ZgOsTYyMd04tFkPcUg","k":"NNEB57KIPt3TxSaxx0ScVQ"},{"kty":"oct","kid":"5b4FAdL4Sz+CeGjnXOAfKw","k":"BXQi0zUstxo3BN83lJTUdw"},{"kty":"oct","kid":"WjkE+uBVSbe9rsndLd/erQ","k":"RY6thvGbEz502kpNGQnqVQ"}]}
+https://cors.seljebu.no/https://hls-m003-live-aka-canalplus.akamaized.net/live/disk/beinsports3-hd/dash-fhddvr/beinsports3-hd.mpd
+
