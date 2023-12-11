@@ -942,10 +942,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 
 
 #EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=753bf308ed7b35ff87506ca03847d42d:5edd4c163d5fb96137f6846fea88208b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://hbohitsp.openwindow040.workers.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTINF:-1 group-logo="https://telegra.ph/file/e564ef004ab9624b42bf0.png" tvg-id="XXXX" group-title="MOVIE CHANNEL" tvg-logo="xxxx",HBO Family
