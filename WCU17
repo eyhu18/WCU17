@@ -1,7 +1,5 @@
 #EXTM3U
 
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/VOD.m3u8
-
 #EXTINF:-1 group-title="LOKAL CHANNEL", LOVE NATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
