@@ -1,5 +1,7 @@
 #EXTM3U
 
+##CREDIT BY @Celcom
+
 #EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041482X0-portrait.jpg",Taking On Taylor Swift 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
