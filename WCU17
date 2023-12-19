@@ -705,15 +705,19 @@ https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
 https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
 
-#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.hlsjs.ru/lb/premium451/index.m3u8
+#EXTINF:-1 tvg-ID="Viaplay.Sports.1.HD.uk" group-title="V-Play Sports" tvg-logo="https://images.premierplayer.tv/uk-channel-logos/select-prem1-v3.png",VIAPLAY SPORTS 1 UK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
+https://cors.seljebu.no/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd
 
-#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.hlsjs.ru/lb/premium550/index.m3u8
+#EXTINF:-1 tvg-ID="Viaplay.Sports.2.HD.uk" group-title="V-Play Sports" tvg-logo="https://images.premierplayer.tv/uk-channel-logos/select-prem2-v3.png",VIAPLAY SPORTS 2 UK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
+https://cors.seljebu.no/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd
 
 #EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport Extra
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
