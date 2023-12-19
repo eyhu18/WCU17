@@ -728,7 +728,7 @@ https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group1/60896dfd47a23d7c0
 #EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport Premium
 ###KODIPROP:inputstream.adaptive.license_type=clearkey 
 ###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zQIum/+moNFSPuXZ/Nqe1A", "kid":"6rE+aXk3Vu2nfY1x/akNXQ" } ], "type":"temporary" }
-##https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+###https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/ViaplayPREMI.m3u8
 
 #EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports Xtra
