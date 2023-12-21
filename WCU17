@@ -1096,10 +1096,6 @@ https://raw.githubusercontent.com/eyhu18/Sport/Repository/ASTOR3.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="ASTRO SPORTS",Astro SuperSport 4 
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/ASTOR4.m3u8
 
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="[MY] ASTRO ASSP (VIP)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="ASTRO SPORTS",[MY] ASTRO ASSP (VIP)
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ASSP1.m3u8
-
-
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png",Sky Sport Motogp 50
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
