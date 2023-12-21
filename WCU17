@@ -702,9 +702,10 @@ https://cors.seljebu.no/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/
 https://cors.seljebu.no/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd
 
 #EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport Extra
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
-https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+https://raw.githubusercontent.com/eyhu18/Sport/Repository/ViaplayExt.m3u8
+##KODIPROP:inputstream.adaptive.license_type=clearkey 
+##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
+##https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 #EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport Football
 ###KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -717,9 +718,6 @@ https://raw.githubusercontent.com/eyhu18/Sport/Repository/ViaplayFoot.m3u8
 ###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zQIum/+moNFSPuXZ/Nqe1A", "kid":"6rE+aXk3Vu2nfY1x/akNXQ" } ], "type":"temporary" }
 ###https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 https://raw.githubusercontent.com/eyhu18/Sport/Repository/ViaplayPREMI.m3u8
-
-#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports Xtra
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", Setanta Sports 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
