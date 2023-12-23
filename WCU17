@@ -226,33 +226,74 @@ https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d45
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="LOKAL SPORTS", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Prima Sport 1" group-title="PRIMA SPORTS" tvg-logo="https://i.ibb.co/JzhBGYB/PRIMASPORT1.png", PRIMA SPORTS 1
+#EXTINF:-1 tvg-id="Prima Sport 1" group-title="RUSIA SPORTS" tvg-logo="https://i.ibb.co/JzhBGYB/PRIMASPORT1.png", PRIMA SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
 https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="Prima Sport 2" group-title="PRIMA SPORTS" tvg-logo="https://i.ibb.co/Byp48qP/PRIMASPORT2.png", PRIMA SPORTS 2
+#EXTINF:-1 tvg-id="Prima Sport 2" group-title="RUSIA SPORTS" tvg-logo="https://i.ibb.co/Byp48qP/PRIMASPORT2.png", PRIMA SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
 https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="Prima Sport 3" group-title="PRIMA SPORTS" tvg-logo="https://i.ibb.co/J2QffZq/PRIMASPORT3.png", PRIMA SPORTS 3
+#EXTINF:-1 tvg-id="Prima Sport 3" group-title="RUSIA SPORTS" tvg-logo="https://i.ibb.co/J2QffZq/PRIMASPORT3.png", PRIMA SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
 https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="Prima Sport 4" group-title="PRIMA SPORTS" tvg-logo="https://i.ibb.co/BVtHFv8/PRIMASPORT4.png", PRIMA SPORTS 4
+#EXTINF:-1 tvg-id="Prima Sport 4" group-title="RUSIA SPORTS" tvg-logo="https://i.ibb.co/BVtHFv8/PRIMASPORT4.png", PRIMA SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
 https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 group-title="RUSIA SPORTS", PrimaSport 1 HD
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/primasport1hd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+
+#EXTINF:-1 group-title="RUSIA SPORTS", PrimaSport 2 HD
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/primasport2sd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+
+#EXTINF:-1 group-title="RUSIA SPORTS", PrimaSport 3 HD
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/primasport3sd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+
+#EXTINF:-1 group-title="RUSIA SPORTS", DigiSport 1 HD
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/digisport1hd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+
+#EXTINF:-1 group-title="RUSIA SPORTS", DigiSport 2 HD
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/digisport2hd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+
+#EXTINF:-1 group-title="RUSIA SPORTS", DigiSport 3 HD
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/digisport3sd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+
+#EXTINF:-1, DigiSport 4 HD
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/digisport4sd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+
+#EXTINF:-1 group-title="RUSIA SPORTS", Sport Extra HD
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/sportextrahd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+
+#EXTINF:-1 group-title="RUSIA SPORTS", EuroSports 1 HD
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/eurosportsd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+
+#EXTINF:-1 group-title="RUSIA SPORTS", EuroSports 2 HD
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/eurosport2sd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Asia",BeIN Sports 1 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
