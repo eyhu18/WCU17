@@ -278,7 +278,7 @@ https://play.stirilepe.net/digisport2hd/tracks-v1a1/mono.m3u8|User-Agent: Mozill
 #EXTVLCOPT:http-referrer=https://rds.live/
 https://play.stirilepe.net/digisport3sd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 
-#EXTINF:-1, DigiSport 4 HD
+#EXTINF:-1 group-title="Digi Prima SPORTS", DigiSport 4 HD
 #EXTVLCOPT:http-referrer=https://rds.live/
 https://play.stirilepe.net/digisport4sd/tracks-v1a1/mono.m3u8|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 
