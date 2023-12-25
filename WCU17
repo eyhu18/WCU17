@@ -697,9 +697,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VO1_xwiBVgxsFW1VLUSblg","kid":"FSPw24h3TYWKVGfggW4uzQ"},{"kty":"oct","k":"SY_JiB5rVYxSUVAMhtZvig","kid":"OeOfss-DRNCBW6uvmNoSSQ"},{"kty":"oct","k":"BGP3Qkv84e_XvG04p11_Sg","kid":"c9cIHr6ZQHC-mxxMzMzBvw"},{"kty":"oct","k":"o-Cyb0Ocy8EbaLyMPDFAzw","kid":"zxRISkhWRku_s4OErn8c8g"}],"type":"temporary"}
 https://cors.seljebu.no/https://hls-m006-live-aka-canalplus.akamaized.net/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ViaPlay" tvg-logo="#" group-title="V-Play Sports",V Sports +
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/Viaplay%2B.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ViaPlay" tvg-logo="#" group-title="V-Play Sports",V Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -742,23 +739,34 @@ https://cors.seljebu.no/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/
 #KODIPROP:inputstream.adaptive.license_key=6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
 https://cors.seljebu.no/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd
 
-#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport Extra
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ViaplayExt.m3u8
-##KODIPROP:inputstream.adaptive.license_type=clearkey 
-##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
-##https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+#EXTINF:-1 group-title="V-Play Sports" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-ultra-hd-se.png", V Sport UHD VPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
 
-#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport Football
-###KODIPROP:inputstream.adaptive.license_type=clearkey 
-####KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
-###https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ViaplayFoot.m3u8
+#EXTINF:-1 group-title="V-Play Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sport Premium VPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:0 group-title="V-Play Sports" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",V Sport Premium
-###KODIPROP:inputstream.adaptive.license_type=clearkey 
-###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zQIum/+moNFSPuXZ/Nqe1A", "kid":"6rE+aXk3Vu2nfY1x/akNXQ" } ], "type":"temporary" }
-###https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
-https://raw.githubusercontent.com/eyhu18/Sport/Repository/ViaplayPREMI.m3u8
+#EXTINF:-1 group-title="V-Play Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football VPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+
+#EXTINF:-1 group-title="V-Play Sports" tvg-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra VPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
+https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 #EXTINF:-1 group-title="OTHER SPORTS", Setanta Sports 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
